@@ -386,3 +386,22 @@ while run:
 pygame.quit()
 ```
 
+## Download the project
+
+After you read all this information you have the curiosity to play the video game. I am sharing with you a directly download link
+[Download](https://drive.google.com/drive/u/0/folders/1iYIPIqDiy_VeKcO1yQHNEvlWJamwnPMP)
+
+## Next steps
+
+Once you downloaded the project from the previous link, just follow this steps:
+1. Unzip the file
+2: Move to the new directory that was created from the above step
+3. Now you are in the new directory, you will see two files. A folder called "img" which basically contain all the elements that will be drawing in the main windows for the player. Second, you will see a file called "fantasy_pygame"
+4. Just do double-click in "fantasy_pygame" file
+5. Enjoy the game.
+
+## Some screenshot of the game
+
+[Main Menu](https://github.com/dochavez/Fantasy-Pygame-8-Bits/blob/main/Menu%20de%20Usuario.png)
+
+[Play Zone of the Game](https://github.com/dochavez/Fantasy-Pygame-8-Bits/blob/main/Area%20de%20Juego.png)
