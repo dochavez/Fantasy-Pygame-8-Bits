@@ -600,7 +600,7 @@ while run:
         coin_group.draw(screen)
         world.draw()
 
-        draw_grid()    
+        #draw_grid()    
         
         game_over = player.update(game_over)
 
